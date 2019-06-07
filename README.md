@@ -2,7 +2,7 @@ Link to original repository: https://github.com/JLaoo/DSS-Project
 
 # DSS-Project
 
-Spring 2019 DSS General Member Project
+Spring 2019 Data Science Society General Member Project
 
 titanic2 - Cleaned Data, ran initial ML tests
 
